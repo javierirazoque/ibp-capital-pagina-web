@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ibp-capital-pagina-web.vercel.app/sitemap.xml
